@@ -66,7 +66,7 @@ CampusAuth/
 
 1.  **Clone the Repository**
     ```bash
-    git clone https://github.com/nadeemmhdm/campusauth.git
+    git clone https://github.com/nadeemmhdm/CampusAuth2.0.git
     cd campusauth
     ```
 
