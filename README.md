@@ -100,13 +100,13 @@ CampusAuth/
 
 ## 📸 Screenshots
 
-| Login Page |
-| <img width="1755" height="840" alt="image" src="https://github.com/user-attachments/assets/fa49ee96-113e-4cf6-9124-c0fccc6a9d2a" />
-| Dashboard |
- | <img width="1755" height="1447" alt="image" src="https://github.com/user-attachments/assets/c1c2acb4-9464-4add-ac57-d5e9db127143" />
- | Announcements |
- | <img width="1755" height="1575" alt="image" src="https://github.com/user-attachments/assets/0ea90677-d939-4567-9dfd-39d23d5b68ee" />
- |
+**Login Page**
+ <img width="1755" height="840" alt="image" src="https://github.com/user-attachments/assets/fa49ee96-113e-4cf6-9124-c0fccc6a9d2a" />
+**Dashboard**
+  <img width="1755" height="1447" alt="image" src="https://github.com/user-attachments/assets/c1c2acb4-9464-4add-ac57-d5e9db127143" />
+**Announcements**
+  <img width="1755" height="1575" alt="image" src="https://github.com/user-attachments/assets/0ea90677-d939-4567-9dfd-39d23d5b68ee" />
+ 
 
 ---
 
