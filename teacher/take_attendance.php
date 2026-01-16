@@ -216,7 +216,7 @@ if ($class_id) {
             </div>
 
             <div style="margin-top: 2rem; text-align: right;">
-                <button class="btn btn-primary" style="padding: 1rem 3rem;">Save Attendance</button>
+                <button type="submit" name="submit_attendance" class="btn btn-primary" style="padding: 1rem 3rem;">Save Attendance</button>
             </div>
         </form>
     <?php endif; ?>
