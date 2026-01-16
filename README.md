@@ -52,7 +52,7 @@ CampusAuth/
 ├── parent/                # Parent Portal
 ├── includes/              # Shared Components (Sidebar, Header, Config)
 ├── assets/
-│   └── css/               # Main Style System (style.css)
+├── css/               # Main Style System (style.css)
 ├── uploads/               # Stored Medical Certs & Announcement Media
 ├── config.php             # Database Connection & Helper Functions
 ├── index.php              # Login Page (with Mobile Block)
@@ -66,7 +66,7 @@ CampusAuth/
 
 1.  **Clone the Repository**
     ```bash
-    git clone https://github.com/yourusername/campusauth.git
+    git clone https://github.com/nadeemmhdm/campusauth.git
     cd campusauth
     ```
 
