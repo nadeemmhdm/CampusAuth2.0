@@ -66,7 +66,7 @@ CampusAuth/
 
 1.  **Clone the Repository**
     ```bash
-    git clone https://github.com/yourusername/campusauth.git
+    git clone https://github.com/nadeemmhdm/campusauth.git
     cd campusauth
     ```
 
@@ -116,3 +116,4 @@ CampusAuth/
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
